@@ -1,6 +1,6 @@
-🌐 Web Development Journey
+# 🌐 Web Development Journey
 
-Welcome to my *Web Development Journey!*
+Welcome to my **Web Development Journey!**
 
 This repository documents my learning progress as I explore web development, starting with the fundamentals and gradually moving toward building real-world projects.
 
@@ -27,6 +27,7 @@ I'm using this repository to practice consistently, strengthen my fundamentals, 
 
 ## 📂 Repository Structure
 
+```text
 Web-Development-Journey/
 ├── 00_Resources/
 ├── 01_HTML/
@@ -34,18 +35,24 @@ Web-Development-Journey/
 ├── 03_JavaScript/
 ├── 04_Mini_Projects/
 └── README.md
-
+```
 
 *The structure will evolve as I learn new technologies.*
 
 ## 📈 Progress Log
 
-| Stage |                      | Status |
-| Repository Created |        | Started  |
-| HTML Fundamentals |         | Upcoming |
-| CSS Fundamentals |          | Upcoming |
-| JavaScript Fundamentals |   | Upcoming |
-| First Mini Project |        | Upcoming |
+| Stage | Status |
+|---|---|
+| Repository Created | 🚀 Started |
+| HTML Fundamentals | Upcoming |
+| CSS Fundamentals | Upcoming |
+| JavaScript Fundamentals | Upcoming |
+| First Mini Project | Upcoming |
 
+## 💡 Philosophy
+
+**Learn → Practice → Build → Document → Improve**
 
 This is a work in progress, and every commit represents another step in my learning journey.
+
+Follow along as I build my skills one concept at a time!
